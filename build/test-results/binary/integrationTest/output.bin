@@ -1,0 +1,3 @@
+IGrails application running at http://localhost:8080 in environment: test
+BERROR grails.app.controllers.tutorialtests.UserController - wrong
+BERROR grails.app.controllers.tutorialtests.UserController - admin

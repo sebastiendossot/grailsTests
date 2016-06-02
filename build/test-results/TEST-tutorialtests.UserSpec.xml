@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tutorialtests.UserSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-06-02T14:38:58" hostname="dhcp-892bf54b.ucd.ie" time="15.578">
+  <properties/>
+  <testcase name="Connection failed, wrong user" classname="tutorialtests.UserSpec" time="13.842"/>
+  <testcase name="Connection succeed" classname="tutorialtests.UserSpec" time="0.958"/>
+  <testcase name="Add new participant" classname="tutorialtests.UserSpec" time="0.778"/>
+  <system-out><![CDATA[Grails application running at http://localhost:8080 in environment: test
+ERROR grails.app.controllers.tutorialtests.UserController - wrong
+ERROR grails.app.controllers.tutorialtests.UserController - admin
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
